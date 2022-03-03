@@ -1,4 +1,4 @@
-# GhostBird
+# GhostBird by Zachary Goniea early 2021
 This program takes in 2 images, checks if they are the same height and width, and copies the RGB values to a new output file with any differing pixels
 removed. As such, in the instance of this program, a bluebird is removed from the images (of course and image file could be inputted).
 
